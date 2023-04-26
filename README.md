@@ -7,7 +7,6 @@ Solution
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -50,7 +49,7 @@ Para cumplir con el objetivo, se deben implementar los tres métodos explicados 
 ## Author
 
 - email - [wesgbrian@gmail.com]
-- github: [wesgdev1]()
+- github: [wesgdev1](https://github.com/wesgdev1)
 
 ## Acknowledgments
 
